@@ -3,7 +3,7 @@ const Table = ({products}) => {
     return (
         <div className="product-table-container">
         <h2 className="table-title">Product List</h2>
-        <table className="product-table">
+        <table className="product-table" border="1">
             <thead>
             <tr>
                 <th>PRODUCT ID</th>

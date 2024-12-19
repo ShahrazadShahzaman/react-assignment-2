@@ -1,11 +1,18 @@
 .product-table-container {
        margin: 30px auto;
-       width: 500px;
+       width: 80%;
        padding: 20px;
        background-color: #fff;
        border-radius: 4px;
        box-shadow: 0 4px 6px grey;
+       padding-bottom: 50px;
 }
+table.product-table {
+    margin: 0 auto;
+    width: 70%;
+    
+}
+
 .table-title {
     text-align: center;
     font-size: 1.8rem;

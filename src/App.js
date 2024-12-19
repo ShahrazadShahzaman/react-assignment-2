@@ -2,6 +2,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Table from './components/Table';
 
+
 const App = () => {
   const products =[
     {id: 101 ,productName: 'Wireless Mouse', category : 'Electronics', price: '$25.99'},
